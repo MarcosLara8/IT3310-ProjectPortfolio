@@ -1,0 +1,35 @@
+# Product Backlog: RCHN Patient Intake and Scheduling System
+**Consultant:** Marcos Lara
+**Role:** Associate Consultant, NovaTech Consulting
+**Engagement:** Regional Care Health Network (RCHN)
+**Date:** 10/20/26---
+## Product Backlog
+
+### Story 1
+**User Story:** As a clinic manager, I want a report showing patients that have no shows and incomplete intakes, so that problems can be identified.
+**Acceptance Criteria:** Given that the clinic manager is , when they open the dash board report, then they can view scheduling conflicts, no shows, and incomplete intakes across all 6 clinics.
+
+**Story Points:** 2
+**MoSCoW Priority:** Must Have 
+
+### Story 2
+**User Story:** As a medical staff, I want to view a patient's information before the appointment, so that medical staff can prepare for the visit.
+**Acceptance Criteria:** Given a patient has an appointment, when the medical staff member opens the daily schedule, then they can prepare the visit in advance.
+**Story Points:** 3
+**MoSCoW Priority:** Must Have
+
+### Story 3
+**User Story:** As a clinic receptionist, I want a system intake schedule that allows the ability to search the name and appointment data, so that the allocation of patients is accurate and not overlapping.
+**Acceptance Criteria:** given when a clinic receptionist is using the scheduling system, when they enter the patients information then the system will match up the patient with its correct date of birth, name, and visit. 
+**Story Points:** 5
+**MoSCoW Priority:** Must Have
+
+
+---
+## Prioritization Rationale
+### Must Have Justification
+The story that in my backlog that I marked as must have is Show appointment availability. I chose this backlog item because it supports the RCHN in reducing the scheduling inconsistency. The scheduling problems overlapping appointments from not having a clear schedule system. 
+
+
+### Won't Have Rationale
+One item that I definitely deferred is the customize dashboard colors from being implemented. I can say this is a relatively small or simple build with little effort. On top of that, customizable dashboard color does not improve with patient intake or to reduce the inconsistency in scheduling. Spending time and prioritizing dashboard changes will take away time from the actual “ must have” work.

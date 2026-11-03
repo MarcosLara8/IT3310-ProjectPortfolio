@@ -1,0 +1,53 @@
+# Project Plan Foundation: RCHN Patient Intake and Scheduling System
+**Consultant:** Marcos Lara
+**Role:** Associate Consultant, Project Manager, NovaTech Consulting
+**Engagement:** Riverside Community Health Network (RCHN)
+**Date:** September 24, 2026
+---
+## Scope
+### In Scope, Phase One
+Patient intake workflow standardization across all six clinics
+Appointment scheduling system replacement
+Staff training for the new system at all six locations
+Initial rollout support for 90 days post-launch
+Executive reporting dashboard for clinic leadership
+### Out of Scope, Phase One
+Billing system integration with the new scheduling data
+Patient-facing online scheduling portal
+Mobile application for clinic staff
+
+### Scope Justification
+One item that I mark outside of the scope is mobile application for clinic staff. The main test is whether or not it serves the business needs. The charter focus is replacing the RCHN intake and scheduling system. I am able to test whether a scope is included or excluded by asking if it helps the intake or scheduling work. Mobile application for the clinic staff does not help clinic intake complete intake and scheduling more consistently and reliability across the 6 clinics. Including items outside of the scope can redirect the project outcome. Including an application can bring in new users into the project, swaying away the attention from the clinic. It can also affect the schedule of the project, extending the milestones or deadlines. The cost of including more features can go against the budget from the sponsor.
+## SMART Objectives
+### Objective 1
+Reducing the check in time for patients at all 6 RCHN clinics from 12 to 6 minutes when the project goes live.
+**Connection to Product Vision:** it will mitigate the inconsistent work flows and re entries that have conflict with intake staff.
+
+### Objective 2
+Reduce double booked appointments across all 6 clinics by delivering conflict free booking And an on screen confirmation save for every appointment.
+**Connection to Product Vision:** it will fix the problem of not knowing if the appointment was saved and the problem of the double booking of patients.
+
+[Continue this pattern for any additional objectives.]
+---
+## Planning Constraints
+### Constraint 1
+The first constraint is the intake and scheduling system, and data migration must comply with the HIPPA. This is non-negotiable.
+**Effect on Planning:** Raising the cost to meet HIPPA expectations, having the inspectors to review and inspection that meet protocols it also expands the scope of the project. Involving stakeholders to secure data migration and access logging
+
+### Constraint 2
+a fixed rollout date for the project deployment
+**Effect on Planning:** Having a fixed deadline will hold the project holders against a time of completed work they must deliver their work. This can raise the cost if stakeholders are behind on work or need extra time to complete the work. It also creates a risk in extending the project's time and affecting other areas.
+---
+## Assumptions
+The team is assuming that RCHN clinic staff will set time aside to be available for training during their shift, if this is wrong then this might affect the go live of the project.
+
+The team is assuming if the old data cannot be migrated accurately then the team will add data clean up to the scope and hold each clinic go live until its data which will add additional cost and resources
+
+
+---
+## Planning Foundation Synthesis
+One planning decision that I made this week was the scope limit.  A patient self scheduling application is out of scope for the RCHN project. This was helpful as it made clarity of the staff intake and scheduling system. Using our week 2 charter helped highlight that patient portal and self scheduling as outside of the scope. The RCHN intake, scheduling, data migration, and training, and rollout support are items that would be included. Week 3 has also helped me understand that the product vision or the primary user as the clinic are the intake coordinator and not the patients. Intake coordinator needs are having a consistent workflow, clear save confirmation of the appointments, less reentry. Having an application for self searching will serve the project off track and solve a problem that isn't in the product charter
+---
+*NovaTech Consulting | IT 3310 | Governors State University | Fall 2026*
+    
+

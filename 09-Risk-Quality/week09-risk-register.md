@@ -23,16 +23,17 @@ in the go live deployment with the other clinics.The trigger is a clinic that mi
 **Probability:** High
 **Impact:** High
 **Score:** 9
-**Response Strategy:** [Avoid / Mitigate / Transfer / Accept], [Enter specific action.]
-**Trigger or Monitoring Condition:** [Enter a useful trigger or monitoring condition.]
+**Response Strategy:** Avoid , The team will avoid the go live deployment for clinics whose migrated appointment data has not been resolved
+**Trigger or Monitoring Condition:** the clinic still showing errors before it is delivered in a live environment
 
 ### Risk 3
-**Description:** Unsolved migrated data errors cause double booked or missed patients
-**Probability:** High
-**Impact:** High
-**Score:** 9
-**Response Strategy:** [Avoid / Mitigate / Transfer / Accept], [Enter specific action.]
-**Trigger or Monitoring Condition:** [Enter a useful trigger or monitoring condition.]
+**Description:** Patient data exposure causes HIPPA violations
+**Probability:** Low
+**Impact:** Medium
+**Score:** 2
+**Response Strategy:** transfer,  patient data being exposed will cause HIPAA violations. 
+**Trigger or Monitoring Condition:** . The trigger is any audit finding, security incidents, or
+any compliance sign off that were not completed before going into a live production
 
 ### Risk 4
 **Description:** Incomplete user acceptance testing will increase the chances of flaws
